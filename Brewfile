@@ -5,9 +5,16 @@
 tap caskroom/cask
 install brew-cask
 cask install alfred
+cask install appcleaner
 cask install betterzipql
+cask install firefox
+cask install flip4mac
+cask install genymotion
+cask install imageoptim
 cask install intellij-idea
 cask install kobito
+cask install mamp
+cask install p4merge
 cask install provisionql
 cask install qlcolorcode
 cask install qlimagesize
@@ -15,7 +22,9 @@ cask install qlmarkdown
 cask install qlstephen
 cask install quicklook-csv
 cask install quicklook-json
+cask install simple-comic
 cask install vagrant
+cask install vlc
 cask install webpquicklook
 
 ## homebrew/versions

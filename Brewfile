@@ -4,6 +4,19 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install alfred
+cask install betterzipql
+cask install intellij-idea
+cask install kobito
+cask install provisionql
+cask install qlcolorcode
+cask install qlimagesize
+cask install qlmarkdown
+cask install qlstephen
+cask install quicklook-csv
+cask install quicklook-json
+cask install vagrant
+cask install webpquicklook
 
 ## homebrew/versions
 tap homebrew/versions
@@ -15,14 +28,14 @@ install brew-file
 # Other Homebrew packages
 install gdbm
 install git
+install libevent
+install node
+install nodebrew
+install openssl
 install pcre
+install tmux
 install zsh
 install zsh-completions
-
-# Below applications were installed by Cask,
-# but don't not have corresponding casks.
-
-#cask  install Warning: nothing to list
 
 # App Store applications
 appstore 1Keyboard

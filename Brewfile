@@ -2,7 +2,6 @@
 # tap repositories and their packages
 
 tap caskroom/cask
-brew brew-cask
 cask alfred
 cask appcleaner
 cask betterzipql
@@ -25,6 +24,8 @@ cask vagrant
 cask vlc
 cask webpquicklook
 
+tap homebrew/binary
+
 tap homebrew/versions
 
 tap rcmdnk/file
@@ -38,15 +39,10 @@ brew node
 brew nodebrew
 brew openssl
 brew pcre
+brew rar
 brew tmux
 brew zsh
 brew zsh-completions
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask kobito (!)
-#cask simple-comic (!)
 
 # App Store applications
 appstore 1Keyboard
